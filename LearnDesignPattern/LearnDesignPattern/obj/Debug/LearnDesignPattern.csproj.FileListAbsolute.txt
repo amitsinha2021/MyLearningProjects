@@ -1,0 +1,6 @@
+C:\Users\homePC\Documents\Visual Studio 2015\Projects\LearnDesignPattern\LearnDesignPattern\bin\Debug\LearnDesignPattern.exe.config
+C:\Users\homePC\Documents\Visual Studio 2015\Projects\LearnDesignPattern\LearnDesignPattern\bin\Debug\LearnDesignPattern.exe
+C:\Users\homePC\Documents\Visual Studio 2015\Projects\LearnDesignPattern\LearnDesignPattern\bin\Debug\LearnDesignPattern.pdb
+C:\Users\homePC\Documents\Visual Studio 2015\Projects\LearnDesignPattern\LearnDesignPattern\obj\Debug\LearnDesignPattern.csprojResolveAssemblyReference.cache
+C:\Users\homePC\Documents\Visual Studio 2015\Projects\LearnDesignPattern\LearnDesignPattern\obj\Debug\LearnDesignPattern.exe
+C:\Users\homePC\Documents\Visual Studio 2015\Projects\LearnDesignPattern\LearnDesignPattern\obj\Debug\LearnDesignPattern.pdb
